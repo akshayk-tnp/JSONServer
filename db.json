@@ -1,0 +1,22 @@
+[
+
+  {
+
+    "Key": "SUPPLIER NAME",
+
+    "IS MISSING": "",
+
+    "Is DIFFERENT": "ESCALATE"
+
+  },
+
+  {
+
+    "Key": "PO NUMBER",
+
+    "IS MISSING": "not present",
+
+    "Is DIFFERENT": ""
+
+  }
+]
